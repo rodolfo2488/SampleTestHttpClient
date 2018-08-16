@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWiremock", "TestWiremock\TestWiremock.csproj", "{32E6DD56-D996-4BC0-A7A5-E6A6C266674B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{77E956AA-81BF-4BD2-B34D-1381B25EA7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E6DD56-D996-4BC0-A7A5-E6A6C266674B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E6DD56-D996-4BC0-A7A5-E6A6C266674B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E6DD56-D996-4BC0-A7A5-E6A6C266674B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E6DD56-D996-4BC0-A7A5-E6A6C266674B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E956AA-81BF-4BD2-B34D-1381B25EA7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E956AA-81BF-4BD2-B34D-1381B25EA7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E956AA-81BF-4BD2-B34D-1381B25EA7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E956AA-81BF-4BD2-B34D-1381B25EA7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
