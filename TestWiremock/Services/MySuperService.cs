@@ -12,6 +12,7 @@ namespace Services.TestWiremock
         public MySuperService(HttpClient httpClient, string baseUrl)
         {
             _httpClient = httpClient;
+            _httpClient.DefaultRequestHeaders.Add("CustomHeader", "Value");
             _baseUrl = baseUrl;
             
         }
